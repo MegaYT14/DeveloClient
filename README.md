@@ -1,3 +1,3 @@
 # DeveloClient
-The best, open-source, minecraft client
+The best, open-source, minecraft client\n
 Not released =(
