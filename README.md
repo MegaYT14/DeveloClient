@@ -1,6 +1,11 @@
 # DeveloClient
 The best, open-source, minecraft client,
 not yet released =(
+
+
+<a class="copyrighted-badge" title="Copyrighted.com Registered &amp; Protected" target="_blank" href="https://www.copyrighted.com/work/ShiZqL5VBntYV489"><img alt="Copyrighted.com Registered &amp; Protected" border="0" width="125" height="75" srcset="https://static.copyrighted.com/badges/125x75/02_2x.png 2x" src="https://static.copyrighted.com/badges/125x75/02.png" /></a>
+
+
 # DevLog:
 # [Custom MainMenu]
 ![Cattura](https://user-images.githubusercontent.com/93542339/147888574-1e50a11f-04cd-4792-9fe5-5328442bfe93.PNG)
